@@ -1,0 +1,60 @@
+https://cursos.alura.com.br/formacao-java
+https://cursos.alura.com.br/course/java-primeiros-passos
+
+1 - O QUE É JAVA?
+Aprendemos vários assuntos fundamentais sobre Java.
+Falamos sobre as principais características da linguagem Java como:
+	orientado a objetos
+	parecido com C++
+	muitas bibliotecas e grande comunidade
+Além disso, aprendemos:
+	a diferença entre o código fonte e o Bytecode
+	para executar o Bytecode é preciso ter a máquina virtual java
+	o Bytecode é independente do sistema operacional
+Vimos também os principais componentes da plataforma Java que são:
+	Java Virtual Machine (JVM)
+	linguagem Java
+	Bibliotecas Java (API)
+
+2 - INSTALAÇÃO E O PRIMEIRO PROGRAMA
+Qual é a diferença entre JRE e JDK
+Como compilar um código fonte Java na linha de comando (javac)
+Como executar o Bytecode na linha de comando (java)
+Um programa Java deve estar escrito dentro de uma classe (class)
+Toda instrução Java deve ser finalizada com ;
+Para abrir e fechar um bloco usaremos as chaves {}
+Um programa Java possui uma entrada que é uma função (método) main
+Para imprimir algo no console usamos a instrução System.out.println()
+
+3 - COMEÇANDO COM ECLIPSE
+O papel de um IDE e sua diferença de um editor
+Como fazer o download do Eclipse IDE
+Para que serve um workspace
+O conceito de perspectiva
+Como criar um projeto Java, inclusive classes e como executá-lo.
+Como exibir diferentes views
+
+4 - TIPOS E VARIÁVEIS
+Iniciamos nosso aprendizado com variáveis e tipos primitivos do Java. 
+Os tipos vistos com mais detalhe foram int (inteiro) e double (decimal). 
+Boas práticas na hora de nomear classes e também variáveis
+Iniciamos as classes com letra maiúscula e as nossas funções e variáveis com letras minúsculas.
+Entender um pouco de type casting e como podemos passar um valor de um tipo para uma variável de outro.
+
+5 - TRABALHANDO COM CARACTERES
+O conceito e como declarar char e String
+Como concatenar Strings
+Atalho para criação da main
+Variáveis guardam valores e não referências.
+
+6 - PRATICANDO CONDICIONAIS
+Como usar o if
+Como usar as operações lógicas AND (&&) e OR (||)
+Trabalhar com o escopo de variáveis
+
+7 - CONTROLANDO FLUXO COM LAÇOS
+A sintaxe do while e for
+O operador +=
+O operador ++
+Laços aninhados
+A funcionalidade do break
